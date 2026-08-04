@@ -83,6 +83,20 @@
       "capacity": "48*27.4  5534片  42*24 2178片",
       "notes": "无",
       "created_at": "2026-08-04T14:19:57.947Z"
+    },
+    {
+      "id": 7,
+      "name": "李化传",
+      "date": "2026-08-04",
+      "shift": "night",
+      "start_time": "16:00",
+      "end_time": "23:59",
+      "equipment": [
+        "3#方波机"
+      ],
+      "capacity": "48*27   3300",
+      "notes": "无",
+      "created_at": "2026-08-04T21:46:10.740Z"
     }
   ],
   "equipment": [
